@@ -1,0 +1,12 @@
+body {
+	background-color: #eff7e1;
+}
+
+hr {
+	border-style: dotted none none none;
+	border-width: 5px;
+}
+
+.pic {
+	width: 35px;
+}
